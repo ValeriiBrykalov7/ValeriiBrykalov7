@@ -355,13 +355,6 @@ When I’m not coding, I’m probably planning a trip, cooking sushi, reading ma
 
 Completely normal developer behavior 😁
 
-<br />
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-
-  ![snake gif](https://github.com/ValeriiBrykalov7/ValeriiBrykalov7/blob/output/github-contribution-grid-snake.gif)
-
 
 <br />
 
