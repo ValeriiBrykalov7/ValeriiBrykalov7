@@ -20,7 +20,7 @@ jobs:
           github_user_name: ValeriiBrykalov7
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00FFFF&color_dots=#161B22,#0A2540,#0077FF,#00BFFF,#00FFFF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#6CBB3C&color_dots=#161B22,#0A2540,#0077FF,#00BFFF,#00FFFF
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
