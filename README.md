@@ -359,9 +359,9 @@ Completely normal developer behavior 😁
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  ![snake gif](https://github.com/ValeriiBrykalov7/ValeriiBrykalov7/blob/output/github-snake-dark.svg)
-</p>
+
+  ![snake gif](https://github.com/ValeriiBrykalov7/ValeriiBrykalov7/blob/output/github-contribution-grid-snake.gif)
+
 
 <br />
 
