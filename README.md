@@ -361,7 +361,7 @@ Completely normal developer behavior 😁
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-3d-cyan.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     alt="3D contribution graph"
   />
 </p>
