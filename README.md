@@ -360,11 +360,7 @@ Completely normal developer behavior 😁
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="./dist/github-snake.svg" />
-  </picture>
+  ![snake gif](https://github.com/ValeriiBrykalov7/ValeriiBrykalov7/blob/output/github-snake-dark.svg)
 </p>
 
 <br />
