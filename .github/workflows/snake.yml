@@ -20,14 +20,7 @@ jobs:
           github_user_name: ValeriiBrykalov7
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Recolor snake dark SVG to cyber cyan
-        run: |
-          sed -i 's/#39d353/#00FFFF/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#26a641/#00BFFF/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#006d32/#0077FF/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#0e4429/#0A2540/g' dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00FFFF&color_dots=161B22,0A2540,0077FF,00BFFF,00FFFF
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
