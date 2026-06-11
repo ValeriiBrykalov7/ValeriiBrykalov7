@@ -1,0 +1,24 @@
+{
+  "fileName": "profile-3d-cyan.svg",
+  "type": "svg",
+  "backgroundColor": "#0D1117",
+  "foregroundColor": "#00FFFF",
+  "strongColor": "#00BFFF",
+  "weakColor": "#0A2540",
+  "radarColor": "#00FFFF",
+  "growingAnimation": true,
+  "contribLightColors": [
+    "#161B22",
+    "#0A2540",
+    "#0077FF",
+    "#00BFFF",
+    "#00FFFF"
+  ],
+  "contribDarkColors": [
+    "#161B22",
+    "#0A2540",
+    "#0077FF",
+    "#00BFFF",
+    "#00FFFF"
+  ]
+}
